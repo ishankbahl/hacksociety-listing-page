@@ -1,6 +1,6 @@
 import axios from "axios";
 
-const url = "http://hacksociety.tech/api/public/hackathonsAll";
+const url = "https://hacksociety.tech/api/public/hackathonsAll";
 
 const fetchData = (handleData) => {
 
